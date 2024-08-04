@@ -32,3 +32,4 @@ So i made a Voltage Regulator for the supply then using our old friend `LM3173` 
 # Using a Different Motor:
 
 So then i came to the conclusion to use the CD tray part of the CD ROM and it was pretty Cool to even hold the Glass too, i did some adjustments to make it good and Efficient but up until now this is the Progress you can see it in action:
+<video src='Motor.mov'/>
